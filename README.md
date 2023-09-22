@@ -20,8 +20,7 @@ J'utilise également SCSS (Sass) pour organiser et améliorer mon flux de travai
 
 ### JavaScript & Node.js
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" alt="Node.js Logo" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" alt="Node.js Logo" width="40">
 
 JavaScript est essentiel pour le développement web. J'ai une solide expérience dans la création d'applications web interactives en utilisant des frameworks tels que React et Vue.js. En outre, j'ai travaillé avec Node.js pour le développement back-end.
 
