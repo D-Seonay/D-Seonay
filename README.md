@@ -34,7 +34,7 @@ Mon portfolio est disponible à l'URL suivante : [seonay.eu](https://seonay.eu).
 
 ## Me Contacter
 
-- LinkedIn: [Mon Profil LinkedIn]((https://www.linkedin.com/in/math%C3%A9o-delaunay/)) 💼
+- LinkedIn: [Mon Profil LinkedIn](https://www.linkedin.com/in/math%C3%A9o-delaunay/) 💼
 - Email: [contact@seonay.eu](mailto:contact@seonay.eu) ✉️
 
 Merci d'avoir visité mon profil GitHub ! 🌟
