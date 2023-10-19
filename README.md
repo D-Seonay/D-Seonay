@@ -24,22 +24,33 @@ I also use SCSS (Sass) to organize and enhance my front-end development workflow
 
 JavaScript is essential for web development. I have a strong experience in creating interactive web applications using frameworks like React and Vue.js. Additionally, I have worked with Node.js for back-end development.
 
-<table>
-  <tr>
-    <td>
-      <p align="left">
+<table style="border: none; width: 100%; background-color: #333; color: #fff;">
+  <tr style="border: none">
+    <td style="width: 50%; border: none;">
+      <p align="center">
         <a href="https://github.com/D-seonay/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=D-seonay" />
-</a>
+          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=D-seonay&show_icons=true&theme=dark" />
+        </a>
       </p>
     </td>
-    <td>
-<a href="https://github.com/D-seonay/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=D-seonay&layout=compact&langs_count=8&card_width=320" />
-</a>
+    <td style="width: 50%; border: none;">
+      <p align="center">
+        <a href="https://github.com/D-seonay/convoychat">
+          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=D-seonay&layout=compact&langs_count=8&card_width=320&theme=dark" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D-seonay&repo=LunoayMessaging" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D-seonay&repo=PortfolioSeonay" />
+</a>
 
 
 
