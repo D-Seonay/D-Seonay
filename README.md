@@ -1,30 +1,10 @@
 # Welcome to my GitHub profile 👋
 
-<img src="https://seonay.eu/portfolio/fr/img/Mathe%CC%81o-DELAUNAY-E%CC%81tudiant-Informatique-portfolio-photo-profil.png" alt="Picture Mathéo DELAUNAY" width="400" height="400">
-
 I am **Mathéo Delaunay**, a French computer science and digital marketing student passionate about programming and technology in general. I am responsible and self-motivated, and I am currently seeking an internship opportunity to develop new skills and expand my expertise. 🚀
 
-## Programming Languages
+## Statistics
 
-### HTML & CSS
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-1280px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="40" height="40">
-
-I am proficient in web development using HTML and CSS to create elegant and responsive websites.
-
-### SCSS
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1920px-Sass_Logo_Color.svg.png" alt="SCSS Logo" width="40" height="40">
-
-I also use SCSS (Sass) to organize and enhance my front-end development workflow.
-
-### JavaScript & Node.js
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" alt="Node.js Logo" width="40">
-
-JavaScript is essential for web development. I have a strong experience in creating interactive web applications using frameworks like React and Vue.js. Additionally, I have worked with Node.js for back-end development.
-
-<table style="border: none; width: 100%; background-color: #333; color: #fff;">
+<table style="border: none; width: 100%;; color: #fff;">
   <tr style="border: none">
     <td style="width: 50%; border: none;">
       <p align="center">
@@ -43,18 +23,32 @@ JavaScript is essential for web development. I have a strong experience in creat
   </tr>
 </table>
 
+## 🌐 Programming Languages 
 
+### Web Development
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D-seonay&repo=LunoayMessaging" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D-seonay&repo=PortfolioSeonay" />
-</a>
+- **HTML** 🌐
+- **CSS** 🎨
+- **JavaScript** 💻
+- **SCSS (Sass)** 🎀
 
+### Back-end Development
 
+- **Node.js** 🚀
 
-## UX Experience
+### General Purpose
+
+- **Python** 🐍
+- **C++** 🖥️
+
+### Frameworks and Libraries
+
+- **React** ⚛️
+- **Next.js** 🔄
+- **Tailwind CSS** 🌈
+- **React Native** 📱
+
+## Design
 
 I am also proficient in UX (User Experience), and I create prototypes and mockups on Figma to design exceptional user experiences. 🎨
 
@@ -65,6 +59,6 @@ My portfolio is available at the following URL: [seonay.eu](https://seonay.eu). 
 ## Contact Me
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/math%C3%A9o-delaunay/) 💼
-- Email: [contact@seonay.eu](mailto:contact@seonay.eu) ✉️
+- Email: [matheodelaunay04@gmail.com](mailto:matheodelaunay04@gmail.com) ✉️
 
 Thank you for visiting my GitHub profile! 🌟
