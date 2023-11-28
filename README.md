@@ -48,6 +48,12 @@ I am **Mathéo Delaunay**, a French computer science and digital marketing stude
 - **Tailwind CSS** 🌈
 - **React Native** 📱
 
+### Tools
+- **Cypress** 🌲
+- **Docker** 🐳
+- **Eslint** 🚨
+- **Husky** 🐶
+
 ## Design
 
 I am also proficient in UX (User Experience), and I create prototypes and mockups on Figma to design exceptional user experiences. 🎨
