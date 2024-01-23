@@ -35,6 +35,7 @@ I am **Mathéo Delaunay**, a French computer science and digital marketing stude
 ### Back-end Development
 
 - **Node.js** 🚀
+- **Symfony (PHP)** ⚙️
 
 ### General Purpose
 
