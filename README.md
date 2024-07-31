@@ -31,11 +31,13 @@ I am **Mathéo Delaunay**, a French computer science and digital marketing stude
 - **CSS** 🎨
 - **JavaScript** 💻
 - **SCSS (Sass)** 🎀
+- **Bootstrap** 🅱️
 
 ### Back-end Development
 
 - **Node.js** 🚀
 - **Symfony (PHP)** ⚙️
+- **SQL** 🗃️
 
 ### General Purpose
 
@@ -45,15 +47,15 @@ I am **Mathéo Delaunay**, a French computer science and digital marketing stude
 ### Frameworks and Libraries
 
 - **React** ⚛️
+- **Vue** 🌟
 - **Next.js** 🔄
-- **Tailwind CSS** 🌈
+- **Tailwind** 🌈
 - **React Native** 📱
 
 ### Tools
 - **Cypress** 🌲
 - **Docker** 🐳
 - **Eslint** 🚨
-- **Husky** 🐶
 
 ## Design
 
@@ -61,11 +63,11 @@ I am also proficient in UX (User Experience), and I create prototypes and mockup
 
 ## Portfolio
 
-My portfolio is available at the following URL: [seonay.eu](https://seonay.eu). Feel free to visit it to see my previous projects and learn more about my work. 🔗
+My portfolio is available at the following URL: [matheo-delaunay.tech](https://www.matheo-delaunay.tech/). Feel free to visit it to see my previous projects and learn more about my work. 🔗
 
 ## Contact Me
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/math%C3%A9o-delaunay/) 💼
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/matheo-delaunay/) 💼
 - Email: [matheodelaunay04@gmail.com](mailto:matheodelaunay04@gmail.com) ✉️
 
 Thank you for visiting my GitHub profile! 🌟
