@@ -1,4 +1,5 @@
 # Welcome to my GitHub profile 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=D-Seonay&label=Profile%20views&color=0e75b6&style=flat" alt="D-Seonay" /> </p>
 
 I am **Mathéo Delaunay**, a French computer science and digital marketing student passionate about programming and technology in general. I am responsible and self-motivated, and I am currently seeking an internship opportunity to develop new skills and expand my expertise. 🚀
 
@@ -6,14 +7,14 @@ I am **Mathéo Delaunay**, a French computer science and digital marketing stude
 
 <table style="border: none; width: 100%;; color: #fff;">
   <tr style="border: none">
-    <td style="width: 50%; border: none;">
+    <td style="border: none;">
       <p align="center">
         <a href="https://github.com/D-seonay/github-readme-stats">
           <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=D-seonay&show_icons=true&theme=dark" />
         </a>
       </p>
     </td>
-    <td style="width: 50%; border: none;">
+    <td style="border: none;">
       <p align="center">
         <a href="https://github.com/D-seonay/convoychat">
           <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=D-seonay&layout=compact&langs_count=8&card_width=320&theme=dark" />
