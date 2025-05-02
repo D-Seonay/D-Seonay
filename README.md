@@ -1,74 +1,68 @@
-# Welcome to my GitHub profile 👋
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=D-Seonay&label=Profile%20views&color=0e75b6&style=flat" alt="D-Seonay" /> </p>
+# 👋 Welcome to my GitHub Profile
 
-I am **Mathéo Delaunay**, a French computer science and digital marketing student passionate about programming and technology in general. I am responsible and self-motivated, and I am currently seeking an internship opportunity to develop new skills and expand my expertise. 🚀
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=D-Seonay&label=Profile%20views&color=0e75b6&style=flat" alt="D-Seonay" />
+</p>
 
-## Statistics
+---
 
-<table style="border: none; width: 100%;; color: #fff;">
-  <tr style="border: none">
-    <td style="border: none;">
-      <p align="center">
-        <a href="https://github.com/D-seonay/github-readme-stats">
-          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=D-seonay&show_icons=true&theme=dark" />
-        </a>
-      </p>
-    </td>
-    <td style="border: none;">
-      <p align="center">
-        <a href="https://github.com/D-seonay/convoychat">
-          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=D-seonay&layout=compact&langs_count=8&card_width=320&theme=dark" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me
 
-## 🌐 Programming Languages 
+I’m **Mathéo Delaunay**, a passionate French full stack developer and digital tech enthusiast.
 
-### Web Development
+🎓 Currently studying **Computer Science & Digital Marketing** at [EPSI Nantes](https://www.epsi.fr/),  
+🧠 I love building smart, clean, and impactful digital solutions.  
+💼 I’m also actively looking for a **development internship** and open to **freelance missions**.  
+🚀 Strong believer in learning by doing, sharing knowledge, and building useful tools.
 
-- **HTML** 🌐
-- **CSS** 🎨
-- **JavaScript** 💻
-- **SCSS (Sass)** 🎀
-- **Bootstrap** 🅱️
+---
 
-### Back-end Development
+## 🔧 Tech Stack
 
-- **Node.js** 🚀
-- **Symfony (PHP)** ⚙️
-- **SQL** 🗃️
+### 💻 Web Development
+`HTML` `CSS / SCSS` `JavaScript` `Bootstrap` `Tailwind` `React` `Vite` `Vue` `Next.js`
 
-### General Purpose
+### ⚙️ Back-End / API
+`Node.js` `Symfony` `PHP` `SQL` `MySQL` `Java Spring Boot`
 
-- **Python** 🐍
-- **C++** 🖥️
+### 📱 Mobile & UX
+`React Native` `Figma` (UI/UX Design & Prototyping)
 
-### Frameworks and Libraries
+### 🛠️ Tools & DevOps
+`Git` `Docker` `Cypress` `ESLint` `VSCode`
 
-- **React** ⚛️
-- **Vue** 🌟
-- **Next.js** 🔄
-- **Tailwind** 🌈
-- **React Native** 📱
+### 🧠 Other Languages
+`Python` `C++`
 
-### Tools
-- **Cypress** 🌲
-- **Docker** 🐳
-- **Eslint** 🚨
+---
 
-## Design
+## 📊 GitHub Stats
 
-I am also proficient in UX (User Experience), and I create prototypes and mockups on Figma to design exceptional user experiences. 🎨
+<p align="center">
+  <a href="https://github.com/D-seonay">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=D-seonay&show_icons=true&theme=dark&count_private=true" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-seonay&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
+</p>
 
-## Portfolio
+---
 
-My portfolio is available at the following URL: [matheo-delaunay.tech](https://www.matheo-delaunay.tech/). Feel free to visit it to see my previous projects and learn more about my work. 🔗
+## 🌐 Portfolio & Projects
 
-## Contact Me
+🚀 Explore some of my latest projects and case studies on my personal portfolio:  
+🔗 [*[*www.matheodelaunay.studio](https://www.matheodelaunay.studio/)**]
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/matheo-delaunay/) 💼
-- Email: [matheodelaunay04@gmail.com](mailto:matheodelaunay04@gmail.com) ✉️
+---
 
-Thank you for visiting my GitHub profile! 🌟
+## 🤝 Let’s Connect
+
+📬 Email: [matheodelaunay04@gmail.com](mailto:matheodelaunay04@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/matheo-delaunay](https://www.linkedin.com/in/matheo-delaunay/)  
+🧑‍💻 Freelance services & collaborations: *available on request*
+
+---
+
+> “Code is like sport: consistency beats intensity.” 🏋️‍♂️  
+> – Mathéo Delaunay
+
+---
