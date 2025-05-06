@@ -50,7 +50,7 @@ I’m **Mathéo Delaunay**, a passionate French full stack developer and digital
 ## 🌐 Portfolio & Projects
 
 🚀 Explore some of my latest projects and case studies on my personal portfolio:  
-🔗 [*[*www.matheodelaunay.studio](https://www.matheodelaunay.studio/)**]
+🔗 [www.matheodelaunay.studio](https://www.matheodelaunay.studio/)
 
 ---
 
