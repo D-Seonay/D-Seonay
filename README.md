@@ -1,68 +1,83 @@
-# 👋 Welcome to my GitHub Profile
+<!-- 🌌 GITHUB PROFILE — Mathéo Delaunay (D-Seonay) -->
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=D-Seonay&label=Profile%20views&color=0e75b6&style=flat" alt="D-Seonay" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Math%C3%A9o+Delaunay+👋;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Smart+%26+Impactful+Digital+Solutions;Always+Learning%2C+Always+Creating.🚀" alt="Typing animation" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=D-Seonay&label=Profile+Views&color=00bfff&style=flat-square" alt="profile views" />
+  <a href="https://wakatime.com/@018e9f6e-3f6e-41ca-8923-c1d7110b6f50"><img src="https://wakatime.com/badge/user/018e9f6e-3f6e-41ca-8923-c1d7110b6f50.svg" alt="wakatime" /></a>
+  <img src="https://img.shields.io/badge/Location-France-1E90FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00BFFF?style=flat-square" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m **Mathéo Delaunay**, a passionate French full stack developer and digital tech enthusiast.
+Hey there 👋 I’m **Mathéo Delaunay**, a **Full Stack Developer** from **Nantes, France**.  
+Currently working at **Atol Développement** and studying at [EPSI Nantes](https://www.epsi.fr/).
 
-🎓 Currently studying **Computer Science & Digital Marketing** at [EPSI Nantes](https://www.epsi.fr/),  
-🧠 I love building smart, clean, and impactful digital solutions.  
-💼 I’m also actively looking for a **development internship** and open to **freelance missions**.  
-🚀 Strong believer in learning by doing, sharing knowledge, and building useful tools.
-
----
-
-## 🔧 Tech Stack
-
-### 💻 Web Development
-`HTML` `CSS / SCSS` `JavaScript` `Bootstrap` `Tailwind` `React` `Vite` `Vue` `Next.js`
-
-### ⚙️ Back-End / API
-`Node.js` `Symfony` `PHP` `SQL` `MySQL` `Java Spring Boot`
-
-### 📱 Mobile & UX
-`React Native` `Figma` (UI/UX Design & Prototyping)
-
-### 🛠️ Tools & DevOps
-`Git` `Docker` `Cypress` `ESLint` `VSCode`
-
-### 🧠 Other Languages
-`Python` `C++`
+💡 I love building **intuitive digital experiences**, combining **modern design** with **efficient backend logic**.  
+💼 Open to **freelance missions**.  
+🧩 Always exploring new techs, frameworks, and ideas.  
+🚀 Working on multiple ongoing projects — some of them are still under wraps 👀  
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Tech Arsenal
 
 <p align="center">
-  <a href="https://github.com/D-seonay">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=D-seonay&show_icons=true&theme=dark&count_private=true" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-seonay&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vue,next,vite,angular,bootstrap,figma,express,nodejs,nestjs,php,symfony,java,spring,mysql,python,git,docker,kubernetes,notion,vscode,idea" />
 </p>
 
 ---
 
-## 🌐 Portfolio & Projects
+## 🧩 Featured Projects
 
-🚀 Explore some of my latest projects and case studies on my personal portfolio:  
-🔗 [www.matheodelaunay.studio](https://www.matheodelaunay.studio/)
+| 🚀 Project | 🔍 Description | 🛠️ Stack |
+|-------------|----------------|-----------|
+| [**HEP EDT**](https://github.com/D-Seonay/HEP-EDT) | A modern and collaborative schedule manager built for EPSI students. | `React`, `Node.js`, `MySQL`, `Tailwind`, `JWT` |
+| [**Portfolio Studio**](https://www.matheodelaunay.studio/) | My personal portfolio showcasing projects, design concepts, and experiments. | `React`, `Tailwind`, `Framer Motion` |
+| **Secret Projects** | Classified. Stay tuned for upcoming releases. | `???`, `Innovation`, `Exploration` |
+
+---
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=D-Seonay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=🔥%20Developer%20Performance" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Seonay&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Seonay&bg_color=0d1117&color=00bfff&line=1E90FF&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-📬 Email: [matheodelaunay04@gmail.com](mailto:matheodelaunay04@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/matheo-delaunay](https://www.linkedin.com/in/matheo-delaunay/)  
-🧑‍💻 Freelance services & collaborations: *available on request*
+<p align="center">
+  <a href="mailto:matheodelaunay04@gmail.com"><img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/matheo-delaunay/"><img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.matheodelaunay.studio/"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
 
 ---
 
-> “Code is like sport: consistency beats intensity.” 🏋️‍♂️  
-> – Mathéo Delaunay
+## 💬 Quote to Live By
+
+> “Code is an art of balance — between chaos and control.”  
+> — *Mathéo Delaunay*
 
 ---
+
+<p align="center">
+  <sub>💙 Crafted with precision, caffeine, and clean commits 💙</sub>
+</p>
