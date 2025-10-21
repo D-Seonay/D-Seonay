@@ -2,17 +2,17 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Math%C3%A9o+Delaunay+👋;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Smart+%26+Impactful+Digital+Solutions;Always+Learning%2C+Always+Creating.🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=4169e1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Math%C3%A9o+Delaunay+👋;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Smart+%26+Impactful+Digital+Solutions;Always+Learning%2C+Always+Creating.🚀" alt="Typing animation" />
 </p>
 
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=D-Seonay&label=Profile+Views&color=00bfff&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=D-Seonay&label=Profile+Views&color=4169e1&style=flat-square" alt="profile views" />
   <a href="https://wakatime.com/@018e9f6e-3f6e-41ca-8923-c1d7110b6f50"><img src="https://wakatime.com/badge/user/018e9f6e-3f6e-41ca-8923-c1d7110b6f50.svg" alt="wakatime" /></a>
-  <img src="https://img.shields.io/badge/Location-France-1E90FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00BFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-France-4169e1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-4169e1?style=flat-square" />
 </p>
 
 ---
@@ -41,8 +41,8 @@ Currently working at **Atol Développement** and studying at [EPSI Nantes](https
 
 | 🚀 Project | 🔍 Description | 🛠️ Stack |
 |-------------|----------------|-----------|
-| [**HEP EDT**](https://github.com/D-Seonay/HEP-EDT) | A modern and collaborative schedule manager built for EPSI students. | `React`, `Node.js`, `MySQL`, `Tailwind`, `JWT` |
-| [**Portfolio Studio**](https://www.matheodelaunay.studio/) | My personal portfolio showcasing projects, design concepts, and experiments. | `React`, `Tailwind`, `Framer Motion` |
+| [**HEP EDT**](https://edt-hep.vercel.app/calendar) | A modern and collaborative schedule manager built for EPSI students. | `React`, `Tailwind`, `Framer Motion` |
+| [**Portfolio**](https://www.matheodelaunay.studio/) | My personal portfolio showcasing projects, design concepts, and experiments. | `React`, `Tailwind`, `Framer Motion` |
 | **Secret Projects** | Classified. Stay tuned for upcoming releases. | `???`, `Innovation`, `Exploration` |
 
 ---
@@ -56,7 +56,7 @@ Currently working at **Atol Développement** and studying at [EPSI Nantes](https
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Seonay&bg_color=0d1117&color=00bfff&line=1E90FF&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Seonay&bg_color=0d1117&color=4169e1&line=1E90FF&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -64,9 +64,9 @@ Currently working at **Atol Développement** and studying at [EPSI Nantes](https
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:matheodelaunay04@gmail.com"><img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:matheodelaunay04@gmail.com"><img src="https://img.shields.io/badge/Email-4169e1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/matheo-delaunay/"><img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.matheodelaunay.studio/"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.matheodelaunay.studio/"><img src="https://img.shields.io/badge/Portfolio-4169e1?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
