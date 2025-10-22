@@ -1,10 +1,8 @@
-<!-- 🌌 GITHUB PROFILE — Mathéo Delaunay (D-Seonay) -->
-
+<!-- 🌌 GITHUB PROFILE — Seonay -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=4169e1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Math%C3%A9o+Delaunay+👋;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Smart+%26+Impactful+Digital+Solutions;Always+Learning%2C+Always+Creating.🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=4169e1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Seonay+👋;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Smart+%26+Impactful+Digital+Solutions;Always+Learning%2C+Always+Creating.🚀" alt="Typing animation" />
 </p>
-
 
 ---
 
@@ -19,8 +17,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there 👋 I’m **Mathéo Delaunay**, a **Full Stack Developer** from **Nantes, France**.  
-Currently working at **Atol Développement** and studying at [EPSI Nantes](https://www.epsi.fr/).
+Hey there 👋 I’m **Seonay**, a **Full Stack Developer** from **Nantes, France**.  
 
 💡 I love building **intuitive digital experiences**, combining **modern design** with **efficient backend logic**.  
 💼 Open to **freelance missions**.  
@@ -46,7 +43,6 @@ Currently working at **Atol Développement** and studying at [EPSI Nantes](https
 | **Secret Projects** | Classified. Stay tuned for upcoming releases. | `???`, `Innovation`, `Exploration` |
 
 ---
-
 
 ## 📊 GitHub Analytics
 
@@ -74,7 +70,7 @@ Currently working at **Atol Développement** and studying at [EPSI Nantes](https
 ## 💬 Quote to Live By
 
 > “Code is an art of balance — between chaos and control.”  
-> — *Mathéo Delaunay*
+> — *Seonay*
 
 ---
 
