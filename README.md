@@ -52,8 +52,13 @@ Hey there 👋 I’m **Seonay**, a **Full Stack Developer** from **Nantes, Franc
 </p>
 
 <p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=D-Seonay&theme=gotham&hide_border=false&ring=4169e1&fire=1E90FF&currStreakLabel=4169e1&sideNums=1E90FF&dates=ffffff" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Seonay&bg_color=0d1117&color=4169e1&line=1E90FF&point=ffffff&area=true&hide_border=true" />
 </p>
+
 
 ---
 
