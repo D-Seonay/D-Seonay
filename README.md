@@ -1,4 +1,4 @@
-<!-- 🌌 GITHUB PROFILE — Seonay -->
+<!-- 🌌 GITHUB PROFILE — Seonay/D-Seonay -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=4169e1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Seonay+👋;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Smart+%26+Impactful+Digital+Solutions;Always+Learning%2C+Always+Creating.🚀" alt="Typing animation" />
