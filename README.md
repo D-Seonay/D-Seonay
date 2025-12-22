@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Location-France-4169e1?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-4169e1?style=flat-square" />
 </p>
----
 
 ## 🎵 My Spotify Profile
 ![Spotify Profile](https://spotify-status-md-5kxj.vercel.app/api/profile?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJydCI6IkFRQkludDNta0dEX2xhNXR2S050VGZGaDlqT3ZKMXZEeEdCR1JOeWlRR0U4aC11cUd3ZVdVNGhzTHZGdUoxdC1FWjVWU09YWlkwZlVWNksxdzFLWFgtTE5mNXJtTEYwZXNHWUtpY01uV213XzBmUXRjOTNqQTM0dzA3amM5cUF0WjcwIiwiaWF0IjoxNzY1ODAwMTY4LCJleHAiOjE3NjgzOTIxNjh9.e8krUU3I8J8lzE81ThbGIPu2cIKAOWqSAMMJ-twumW8)
