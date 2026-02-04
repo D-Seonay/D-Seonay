@@ -14,8 +14,7 @@
 </p>
 
 ## 🎵 My Spotify Profile
-![Spotify Profile](https://spotify-status-md-5kxj.vercel.app/api/profile?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJydCI6IkFRQVF4ZHhMTkFnOUFTSnVFUk5NbkJrMjJ1dzZmTUdXX0xUdmR0alJqUG9va2JtcUFwc2FZT2ZFZTFoTTRqdUlFb3BMSVZwNXRfbVpnMjdyQVhhLUd2UWVlbERoSF9XdUVuSUFKQUxCblluSnZ2ZmMwTkJISzM1T0NKVVZUTmlxbFpFIiwiaWF0IjoxNzY5NDM0ODQyLCJleHAiOjE3NzIwMjY4NDJ9.__UmSzugnc38Y4MljLjrwP2bqKJxxUTBgfBwo-2IVwA)
-
+![Spotify Profile](https://spotify-status-md.vercel.app/api/profile?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJydCI6IkFRRFBiMHZVNl9Ta2FTdG5ERC0wZ3RSMVBCZFBzVWJyTFJXNTc1OFVvdUY0YUJCZ1dseUc0MEZGWVZCS1lVMFZtaDh1NWI1SjJXWkswOWhLdi1lLXQzTGtNWnA5Q0psOHU5cEY3VmNxdkFqVnNrbkJYYWoxV09NNFZWV1hQekJic3JZIiwiaWF0IjoxNzcwMjI1NTE0LCJleHAiOjE3NzI4MTc1MTR9.G3ovhRIWh0Jwr5k7iuELZba6xX4VWICgi-gtVd9H6qA)
 ---
 
 ## 👨‍💻 About Me
