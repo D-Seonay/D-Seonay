@@ -40,7 +40,6 @@ Hey there 👋 I’m **Seonay**, a **Full Stack Developer** from **Nantes, Franc
 
 | 🚀 Project | 🔍 Description | 🛠️ Stack |
 |-------------|----------------|-----------|
-| [**HEP EDT**](https://edt-hep.vercel.app/calendar) | A modern and collaborative schedule manager built for EPSI students. | `React`, `Tailwind`, `Framer Motion` |
 | [**Portfolio**](https://www.matheodelaunay.studio/) | My personal portfolio showcasing projects, design concepts, and experiments. | `React`, `Tailwind`, `Framer Motion` |
 | **Secret Projects** | Classified. Stay tuned for upcoming releases. | `???`, `Innovation`, `Exploration` |
 
