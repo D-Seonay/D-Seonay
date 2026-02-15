@@ -41,6 +41,7 @@ Hey there 👋 I’m **Seonay**, a **Full Stack Developer** from **Nantes, Franc
 | 🚀 Project | 🔍 Description | 🛠️ Stack |
 |-------------|----------------|-----------|
 | [**Portfolio**](https://www.matheodelaunay.studio/) | My personal portfolio showcasing projects, design concepts, and experiments. | `React`, `Tailwind`, `Framer Motion` |
+| [**Mindful Metrics**](https://www.matheodelaunay.studio/) | A web application dedicated to tracking and visualizing personal metrics. | `React`, `Tailwind`, `Recharts` |
 | **Secret Projects** | Classified. Stay tuned for upcoming releases. | `???`, `Innovation`, `Exploration` |
 
 ---
