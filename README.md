@@ -49,7 +49,7 @@ Hey there 👋 I’m **Seonay**, a **Full Stack Developer** from **Nantes, Franc
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=D-Seonay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=🔥%20Developer%20Performance" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=D-Seonay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200&custom_title=🔥%20Developer%20Performance" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Seonay&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
