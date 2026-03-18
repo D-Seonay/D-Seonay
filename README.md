@@ -74,13 +74,6 @@ Hey there 👋 I’m **Seonay**, a **Full Stack Developer** from **Nantes, Franc
 
 ---
 
-## 💬 Quote to Live By
-
-> “Code is an art of balance — between chaos and control.”  
-> — *Seonay*
-
----
-
 <p align="center">
   <sub>💙 Crafted with precision, caffeine, and clean commits 💙</sub>
 </p>
