@@ -16,7 +16,6 @@
 ## 🎵 My Spotify Profile
 ![VibeCheck Profile](https://spotify-status-md.vercel.app/api/profile?token=kgnTMGlgeBpE3c_P.E4FduXtBVgUJOkciDF_nGk_oLE7Ed_Vv_Xd7ydralW95hCyzBuUGwPPKzV0AslOMH7m2j7W7EHoeNpK9u_EEnNsWYyisMbeo1gEBFUYxQ_pDUBY8yRxsPVvhtC3xv_qQI08KGRhebLJqsbq-MCu6PbLV0r_OoEn6NwdTh9YFceKpcdFeTshN199a2auR2Fb27s5pYPAb8MgEyuHJYH-ZWj6VPWoe8w8bGR3qNRHh.5qe6OguZGO_30j5X7rxSGg)
 ---
-
 ## 👨‍💻 About Me
 
 Hey there 👋 I’m **Seonay**, a **Full Stack Developer** from **Nantes, France**.  
@@ -52,6 +51,8 @@ Hey there 👋 I’m **Seonay**, a **Full Stack Developer** from **Nantes, Franc
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=D-Seonay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits&count_private=true&cache_seconds=7200&custom_title=🔥%20Developer%20Performance" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Seonay&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+![04. Top Repositories](https://github-stats-cards.matheodelaunay.studio/api/top-repos?username=D-Seonay&theme=github_dark&locale=en)
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=D-Seonay&theme=gotham&hide_border=false&ring=4169e1&fire=1E90FF&currStreakLabel=4169e1&sideNums=1E90FF&dates=ffffff" />
