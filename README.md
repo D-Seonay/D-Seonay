@@ -84,6 +84,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D-Seonay&theme=dark&hide_border=true&show_icons=true&bg_color=09090b&title_color=fafafa&text_color=fafafa&icon_color=fafafa" alt="GitHub Stats" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=D-Seonay&theme=dark-smoky&hide_border=true)
+
 </p>
 
 <p align="center">
