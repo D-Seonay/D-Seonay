@@ -1,101 +1,180 @@
-<!-- En-tête / Bannière -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            HERO BANNER                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <!-- Remplacez l'URL ci-dessous par le lien direct vers votre image de paysage minimaliste sombre -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=09090b&height=250&section=header&text=Welcome%20to%20Seonay's%20Github&fontSize=40&fontColor=fafafa&animation=fadeIn&fontAlignY=38&desc=%3C/%3E&descAlignY=62&descAlign=50" alt="Banner" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:18181b&height=260&section=header&text=Seonay&fontSize=72&fontColor=fafafa&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Nantes%2C%20France&descSize=18&descAlignY=60&animation=fadeIn"
+    alt="Seonay banner"
+    width="100%"
+  />
 </div>
 
-<br>
+<!-- Animated ASCII logo (SMIL SVG) -->
+<div align="center">
+  <img src="./ascii-seonay.svg" alt="SEONAY" width="620"/>
+</div>
 
-<!-- Liens sociaux et Vues -->
-<p align="center">
-  <a href="mailto:matheodelaunay04@gmail.com"><img src="https://img.shields.io/badge/GMAIL-09090b?style=for-the-badge&logo=gmail&logoColor=fafafa&labelColor=09090b"/></a>
-  <a href="https://www.linkedin.com/in/matheo-delaunay/"><img src="https://img.shields.io/badge/LINKEDIN-09090b?style=for-the-badge&logo=linkedin&logoColor=fafafa&labelColor=09090b"/></a>
-  <a href="https://www.matheodelaunay.studio/"><img src="https://img.shields.io/badge/PORTFOLIO-09090b?style=for-the-badge&logo=firefox&logoColor=fafafa&labelColor=09090b"/></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=D-Seonay&label=Profile+Views&color=09090b&style=flat-square&labelColor=09090b" alt="profile views" />
-</p>
+<br/>
 
-<br>
+<!-- Typing effect -->
+<div align="center">
+  <a href="https://www.matheodelaunay.studio/">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FAFAFA&center=true&vCenter=true&width=560&lines=Building+smart+%26+impactful+solutions;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Open+to+freelance+%26+full-time+roles"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
-<!-- À propos de moi -->
-<h3 align="center">👤 About me</h3>
+<br/>
 
-<table width="100%" style="border: none; background-color: #09090b;">
-  <tr style="border: none;">
-    <td width="70%" style="border: none; color: #fafafa;">
-      Hey there 👋 I’m <strong>Seonay</strong>... a Full Stack Developer from Nantes, France... Open to <strong>freelance</strong>, but also looking for <strong>long-term</strong> and <strong>full-time</strong> positions. Currently, I am <strong>working</strong> on <strong>multiple other side projects</strong> as well.
-      <br><br>
-      📍 Location: Nantes, France <br>
-      💡 Smart & Impactful Solutions <br>
-      🚧 Secret Projects
-    </td>
-    <td width="30%" align="center" style="border: none;">
-      <!-- GIF Astronaute -->
-      <img src="https://raw.githubusercontent.com/aungmoe/aungmoe/master/space.gif" width="120" alt="Space Astronaut" />
-    </td>
-  </tr>
-</table>
+<!-- Social links -->
+<div align="center">
+  <a href="mailto:matheodelaunay04@gmail.com"><img src="https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=fafafa&labelColor=09090b" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/matheo-delaunay/"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=fafafa&labelColor=09090b" alt="LinkedIn"/></a>
+  <a href="https://www.matheodelaunay.studio/"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=firefox&logoColor=fafafa&labelColor=09090b" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=D-Seonay&label=Profile%20views&color=09090b&style=for-the-badge&labelColor=09090b" alt="Profile views"/>
+</div>
 
-<br>
+<br/>
 
-<!-- Technologies -->
-<h3 align="center">⚙️ Technologies</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             ABOUT                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-09090b?style=for-the-badge&logo=react&logoColor=fafafa" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-09090b?style=for-the-badge&logo=next.js&logoColor=fafafa" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-09090b?style=for-the-badge&logo=typescript&logoColor=fafafa" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-09090b?style=for-the-badge&logo=tailwind-css&logoColor=fafafa" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Node.js-09090b?style=for-the-badge&logo=node.js&logoColor=fafafa" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Figma-09090b?style=for-the-badge&logo=figma&logoColor=fafafa" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-09090b?style=for-the-badge&logo=git&logoColor=fafafa" alt="Git" />
-</p>
+## &nbsp;`>`&nbsp; whoami
 
-<br>
+```ts
+const seonay: Developer = {
+  name: "Mathéo 'Seonay' Delaunay",
+  role: "Full Stack Developer",
+  location: "Nantes, France 🇫🇷",
+  focus: ["Clean architecture", "Impactful UX", "Performance"],
+  currently: "Cooking secret side projects 🚧",
+  openTo: ["Freelance", "Full-time", "Long-term"],
+};
+```
 
-<!-- Projets Phares -->
-<h3 align="center">🧩 Featured Projects</h3>
+<br/>
 
-<table width="100%" style="background-color: #09090b; color: #fafafa; border: 1px solid #333;">
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            TECH STACK                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## &nbsp;`>`&nbsp; tech stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-09090b?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-09090b?style=for-the-badge&logo=next.js&logoColor=fafafa)
+![TypeScript](https://img.shields.io/badge/TypeScript-09090b?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind-09090b?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-09090b?style=for-the-badge&logo=node.js&logoColor=339933)
+![Framer](https://img.shields.io/badge/Framer_Motion-09090b?style=for-the-badge&logo=framer&logoColor=fafafa)
+![Figma](https://img.shields.io/badge/Figma-09090b?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-09090b?style=for-the-badge&logo=git&logoColor=F05032)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          FEATURED PROJECTS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## &nbsp;`>`&nbsp; featured projects
+
+<table>
   <tr>
-    <td width="33%" valign="top" style="padding: 15px;">
-      <h4 style="margin-top: 0;"><a href="https://www.matheodelaunay.studio/" style="color: #fafafa; text-decoration: none;">Portfolio</a></h4>
-      <p style="font-size: 13px;">My personal portfolio showcasing projects, design concepts, and experiments.</p>
-      <code>React</code> <code>Tailwind</code> <code>Framer Motion</code>
+    <td width="33%" valign="top">
+      <h3>🌐 Portfolio</h3>
+      <p>Personal portfolio showcasing projects, design concepts and experiments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-09090b?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Tailwind-09090b?style=flat-square&logo=tailwind-css&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Framer-09090b?style=flat-square&logo=framer&logoColor=fafafa"/>
+      </p>
+      <a href="https://www.matheodelaunay.studio/">→ Live site</a>
     </td>
-    <td width="33%" valign="top" style="padding: 15px;">
-      <h4 style="margin-top: 0;"><a href="https://mindful-metrics.matheodelaunay.studio/" style="color: #fafafa; text-decoration: none;">Mindful Metrics</a></h4>
-      <p style="font-size: 13px;">A web application dedicated to tracking and visualizing personal metrics.</p>
-      <code>React</code> <code>Tailwind</code> <code>Recharts</code>
+    <td width="33%" valign="top">
+      <h3>⚡ CoreHub</h3>
+      <p>All-in-one hub to centralize everything : habits, sport, expenses, freelance, reading & more.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-09090b?style=flat-square&logo=next.js&logoColor=fafafa"/>
+        <img src="https://img.shields.io/badge/Rust-09090b?style=flat-square&logo=rust&logoColor=CE422B"/>
+        <img src="https://img.shields.io/badge/Kubernetes-09090b?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
+      </p>
+      <a href="#">→ Coming soon</a>
     </td>
-    <td width="33%" valign="top" style="padding: 15px;">
-      <h4 style="margin-top: 0;">Secret Projects</h4>
-      <p style="font-size: 13px;">Classified. Stay tuned for upcoming releases.</p>
-      <code>???</code> <code>Innovation</code> <code>Exploration</code>
+    <td width="33%" valign="top">
+      <h3>🔒 Secret Projects</h3>
+      <p>Classified. Stay tuned for upcoming releases.</p>
+      <p>
+        <img src="https://img.shields.io/badge/???-09090b?style=flat-square&logoColor=fafafa"/>
+        <img src="https://img.shields.io/badge/Innovation-09090b?style=flat-square&logoColor=fafafa"/>
+      </p>
+      <sub>Coming soon…</sub>
     </td>
   </tr>
 </table>
 
-<br>
+<br/>
 
-<!-- Statistiques -->
-<h3 align="center">📈 Statistics</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            STATISTICS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D-Seonay&theme=dark&hide_border=true&show_icons=true&bg_color=09090b&title_color=fafafa&text_color=fafafa&icon_color=fafafa" alt="GitHub Stats" />
+## &nbsp;`>`&nbsp; statistics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=D-Seonay&theme=dark-smoky&hide_border=true)
+<div align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=D-Seonay&show_icons=true&hide_border=true&count_private=true&bg_color=09090b&title_color=fafafa&text_color=a1a1aa&icon_color=fafafa"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Seonay&layout=compact&hide_border=true&langs_count=6&card_width=320&bg_color=09090b&title_color=fafafa&text_color=a1a1aa&icon_color=fafafa"
+    alt="Top languages"
+  />
+</div>
 
-</p>
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=D-Seonay&theme=dark-smoky&hide_border=true"
+    alt="GitHub streak"
+  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Seonay&bg_color=09090b&color=fafafa&line=fafafa&point=fafafa&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=D-Seonay&bg_color=09090b&color=fafafa&line=fafafa&point=fafafa&area=true&hide_border=true"
+    alt="Activity graph"
+  />
+</div>
 
-<br>
+<br/>
 
-<!-- Footer -->
-<p align="center">
-  <sub>💙 Crafted with precision, caffeine, and clean commits 💙</sub>
-</p>
+<!-- Trophies -->
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=D-Seonay&theme=onedark&no-frame=true&column=6&margin-w=6&margin-h=6"
+    alt="Trophies"
+  />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              FOOTER                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=18181b&height=120&section=footer"
+    alt="Footer"
+    width="100%"
+  />
+  <p><sub>💙 Crafted with precision, caffeine & clean commits 💙</sub></p>
+</div>
