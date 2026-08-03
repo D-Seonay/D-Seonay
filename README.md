@@ -2,16 +2,9 @@
 <!--                            HERO BANNER                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:18181b&height=260&section=header&text=Seonay&fontSize=72&fontColor=fafafa&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Nantes%2C%20France&descSize=18&descAlignY=60&animation=fadeIn"
-    alt="Seonay banner"
-    width="100%"
-  />
-</div>
 
 <!-- Animated ASCII logo (SMIL SVG) -->
-<div align="center">
+<div align="center" width="100%">
   <img src="./ascii-seonay.svg" alt="SEONAY" width="620"/>
 </div>
 
