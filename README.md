@@ -88,7 +88,7 @@ const seonay: Developer = {
         <img src="https://img.shields.io/badge/Tailwind-09090b?style=flat-square&logo=tailwind-css&logoColor=38BDF8"/>
         <img src="https://img.shields.io/badge/Framer-09090b?style=flat-square&logo=framer&logoColor=fafafa"/>
       </p>
-      <a href="https://www.matheodelaunay.studio/">→ Live site</a>
+      <a href="https://www.seonay.com/">→ Live site</a>
     </td>
     <td width="33%" valign="top">
       <h3>⚡ CoreHub</h3>
