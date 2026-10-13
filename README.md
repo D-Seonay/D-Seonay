@@ -121,16 +121,18 @@ const seonay: Developer = {
 ## &nbsp;`>`&nbsp; statistics
 
 <div align="center">
-  <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=D-Seonay&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=09090b&amp;title_color=fafafa&amp;text_color=a1a1aa&amp;icon_color=fafafa"
-  alt="GitHub stats"
-/>
+<p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Seonay&layout=compact&hide_border=true&langs_count=6&card_width=320&bg_color=09090b&title_color=fafafa&text_color=a1a1aa&icon_color=fafafa"
+    src="https://github-readme-stats.vercel.app/api?username=D-Seonay&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=09090b&amp;title_color=fafafa&amp;text_color=a1a1aa&amp;icon_color=fafafa"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Seonay&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;card_width=320&amp;bg_color=09090b&amp;title_color=fafafa&amp;text_color=a1a1aa&amp;icon_color=fafafa"
     alt="Top languages"
   />
+</p>
 </div>
 
 <div align="center">
