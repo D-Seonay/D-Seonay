@@ -122,10 +122,10 @@ const seonay: Developer = {
 
 <div align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=D-Seonay&show_icons=true&hide_border=true&count_private=true&bg_color=09090b&title_color=fafafa&text_color=a1a1aa&icon_color=fafafa"
-    alt="GitHub stats"
-  />
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=D-Seonay&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=09090b&amp;title_color=fafafa&amp;text_color=a1a1aa&amp;icon_color=fafafa"
+  alt="GitHub stats"
+/>
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Seonay&layout=compact&hide_border=true&langs_count=6&card_width=320&bg_color=09090b&title_color=fafafa&text_color=a1a1aa&icon_color=fafafa"
