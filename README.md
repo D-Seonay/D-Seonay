@@ -98,7 +98,7 @@ const seonay: Developer = {
         <img src="https://img.shields.io/badge/Rust-09090b?style=flat-square&logo=rust&logoColor=CE422B"/>
         <img src="https://img.shields.io/badge/Kubernetes-09090b?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
       </p>
-      <a href="#">→ Coming soon</a>
+      <a href="https://life.seonay.eu/">→ Early access</a>
     </td>
     <td width="33%" valign="top">
       <h3>🔒 Secret Projects</h3>
