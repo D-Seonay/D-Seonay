@@ -50,6 +50,10 @@ const seonay: Developer = {
     <td>Node.js, Rust</td>
   </tr>
   <tr>
+    <td><code>--mobile</code></td>
+    <td>React Native, Expo, SwiftUI, Kotlin</td>
+  </tr>
+  <tr>
     <td><code>--infra</code></td>
     <td>Kubernetes, Git</td>
   </tr>
