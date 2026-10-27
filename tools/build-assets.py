@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the README's SVG assets (dark + light pairs).
+"""Generate the README's SVG assets (dark + light pairs, plus the link pills).
 
     python3 tools/build-assets.py
 
@@ -20,6 +20,10 @@ PALETTES = {
     "dark": {"fg": "#fafafa", "muted": "#a1a1aa", "faint": "#71717a", "line": "#3f3f46"},
     "light": {"fg": "#09090b", "muted": "#52525b", "faint": "#71717a", "line": "#d4d4d8"},
 }
+
+# Link pills are a single filled variant that reads on both themes: GitHub can't
+# theme-swap an image wrapped in our own link (see the note in README.md).
+PILL = {"bg": "#18181b", "fg": "#fafafa", "faint": "#a1a1aa", "line": "#3f3f46"}
 
 W = 840
 
@@ -214,14 +218,14 @@ def hero(p):
     return svg(W, H, title, body, MOTION_CSS)
 
 
-def pill(p, key, value):
+def pill(key, value, p=PILL):
     size, pad, h = 13, 14, 34
     cw = size * ADV
     w = round(pad * 2 + (len(key) + 2 + len(value)) * cw)
     y = h / 2 + size * 0.35
     body = "\n".join(
         [
-            f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="7" fill="none" stroke="{p["line"]}"/>',
+            f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="7" fill="{p["bg"]}" stroke="{p["line"]}"/>',
             text(pad, y, key, size, p["faint"]),
             text(pad + (len(key) + 2) * cw, y, value, size, p["fg"]),
         ]
@@ -246,8 +250,8 @@ def main():
     for mode, p in PALETTES.items():
         (OUT / f"hero-{mode}.svg").write_text(hero(p), encoding="utf-8")
         (OUT / f"footer-{mode}.svg").write_text(footer(p), encoding="utf-8")
-        for stem, key, value in LINKS:
-            (OUT / f"{stem}-{mode}.svg").write_text(pill(p, key, value), encoding="utf-8")
+    for stem, key, value in LINKS:
+        (OUT / f"{stem}.svg").write_text(pill(key, value), encoding="utf-8")
     for f in sorted(OUT.glob("*.svg")):
         print(f"{f.stat().st_size:>6}  {f.relative_to(OUT.parent)}")
 
