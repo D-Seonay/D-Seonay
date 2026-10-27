@@ -1,14 +1,13 @@
 <!--
   SEONAY(1): a profile written as a manual page.
   Artwork lives in ./assets as dark/light pairs; regenerate with `python3 tools/build-assets.py`.
+  Linked images use GitHub's #gh-dark-mode-only / #gh-light-mode-only: a <picture> ignores its
+  <source> once an <a> sits between it and the <img>, so it would stay light in dark mode.
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <a href="https://www.matheodelaunay.studio/"><img src="./assets/hero-light.svg" width="100%" alt="SEONAY, Full-Stack Developer. Building smart and impactful solutions with React, Next.js, TypeScript and Node.js. Open to freelance and full-time roles."></a>
-</picture>
+<a href="https://www.matheodelaunay.studio/"><img src="./assets/hero-dark.svg#gh-dark-mode-only" width="100%" alt="SEONAY, Full-Stack Developer. Building smart and impactful solutions with React, Next.js, TypeScript and Node.js. Open to freelance and full-time roles."><img src="./assets/hero-light.svg#gh-light-mode-only" width="100%" alt="SEONAY, Full-Stack Developer. Building smart and impactful solutions with React, Next.js, TypeScript and Node.js. Open to freelance and full-time roles."></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-mail-dark.svg"><a href="mailto:matheodelaunay04@gmail.com"><img src="./assets/link-mail-light.svg" height="34" alt="Email matheodelaunay04@gmail.com"></a></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-linkedin-dark.svg"><a href="https://www.linkedin.com/in/matheo-delaunay/"><img src="./assets/link-linkedin-light.svg" height="34" alt="LinkedIn: in/matheo-delaunay"></a></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-web-dark.svg"><a href="https://www.matheodelaunay.studio/"><img src="./assets/link-web-light.svg" height="34" alt="Portfolio: matheodelaunay.studio"></a></picture>
+<a href="mailto:matheodelaunay04@gmail.com"><img src="./assets/link-mail-dark.svg#gh-dark-mode-only" height="34" alt="Email matheodelaunay04@gmail.com"><img src="./assets/link-mail-light.svg#gh-light-mode-only" height="34" alt="Email matheodelaunay04@gmail.com"></a>&nbsp;<a href="https://www.linkedin.com/in/matheo-delaunay/"><img src="./assets/link-linkedin-dark.svg#gh-dark-mode-only" height="34" alt="LinkedIn: in/matheo-delaunay"><img src="./assets/link-linkedin-light.svg#gh-light-mode-only" height="34" alt="LinkedIn: in/matheo-delaunay"></a>&nbsp;<a href="https://www.matheodelaunay.studio/"><img src="./assets/link-web-dark.svg#gh-dark-mode-only" height="34" alt="Portfolio: matheodelaunay.studio"><img src="./assets/link-web-light.svg#gh-light-mode-only" height="34" alt="Portfolio: matheodelaunay.studio"></a>
 
 <br>
 
