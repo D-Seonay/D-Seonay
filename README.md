@@ -11,7 +11,7 @@
   <img src="./assets/hero-light.svg" width="100%" alt="SEONAY, Full-Stack Developer. Building smart and impactful solutions with React, Next.js, TypeScript and Node.js. Open to freelance and full-time roles.">
 </picture>
 
-<a href="mailto:matheodelaunay04@gmail.com"><img src="./assets/link-mail.svg" height="34" alt="Email matheodelaunay04@gmail.com"></a>&nbsp;<a href="https://www.linkedin.com/in/matheo-delaunay/"><img src="./assets/link-linkedin.svg" height="34" alt="LinkedIn: in/matheo-delaunay"></a>&nbsp;<a href="https://www.matheodelaunay.studio/"><img src="./assets/link-web.svg" height="34" alt="Portfolio: matheodelaunay.studio"></a>
+<a href="mailto:matheodelaunay04@gmail.com"><img src="./assets/link-mail.svg" height="34" alt="Email matheodelaunay04@gmail.com"></a>&nbsp;<a href="https://www.linkedin.com/in/matheo-delaunay/"><img src="./assets/link-linkedin.svg" height="34" alt="LinkedIn: in/matheo-delaunay"></a>&nbsp;<a href="https://www.seonay.com/"><img src="./assets/link-web.svg" height="34" alt="Portfolio: seonay.com"></a>
 
 <br>
 
