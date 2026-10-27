@@ -36,7 +36,7 @@ PHRASES = [
 LINKS = [  # (file stem, key, value)
     ("link-mail", "mail", "matheodelaunay04@gmail.com"),
     ("link-linkedin", "linkedin", "in/matheo-delaunay"),
-    ("link-web", "web", "matheodelaunay.studio"),
+    ("link-web", "web", "seonay.com"),
 ]
 
 # figlet "standard", kerned with a one-column gap
